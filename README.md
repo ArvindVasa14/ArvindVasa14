@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning 
 - 🌱 I’m currently learning working as Data scientist@ Virtusa
 - 💞️ I’m looking to collaborate with fellow data science enthusiasts
-- 📫 How to reach me via LinkedIn 
+- 📫 How to reach me: via LinkedIn 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
