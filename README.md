@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @ArvindVasa14
-- 👀 I’m interested in machine learning 
-- 🌱 I’m currently learning working as Data scientist@ Virtusa
-- 💞️ I’m looking to collaborate with fellow data science enthusiasts
-- 📫 How to reach me: via LinkedIn 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m Arvind Vasa!
 
-<!---
-ArvindVasa14/ArvindVasa14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Welcome to my github where I explore various aspects of artificial intelligence and data science.
+
+🌱 Currently, I'm working as a Data Scientist at Virtusa and constantly learning and refining my skills in machine learning.
+
+💞️ I’m looking to collaborate with fellow data science enthusiasts and professionals to exchange knowledge and insights.
+
+📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/venkata-aravind-vasa-511644180/).
