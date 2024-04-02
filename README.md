@@ -2,7 +2,7 @@
 
 👀 Welcome to my github where I explore various aspects of artificial intelligence and data science.
 
-🌱 Currently, I'm working as a Data Scientist at Virtusa and constantly learning and refining my skills in machine learning, deep learning and NLP.
+🌱 Currently, I'm working as a Software Engineer at Virtusa and constantly learning and refining my skills in machine learning, deep learning and NLP.
 
 :) having proficiency in finetuning Large Language Models
 
